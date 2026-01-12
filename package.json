@@ -13,7 +13,10 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-icons": "^5.5.0",
+<<<<<<< HEAD
     "react-router-dom": "^7.12.0",
+=======
+>>>>>>> 17696473fce351bc1d4134fa5dc96dcb75e56ab7
     "recharts": "^3.6.0"
   },
   "devDependencies": {
